@@ -5,11 +5,9 @@
     <description>Making ends meet</description>
     <author email="tendai@" href="http://www.royaltywebhosting.co.zw">Royalty Webmaster</author>
     
-    <manifest ... >
+    
     <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="19" />
-    ...
-</manifest>
-
+   
     <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
