@@ -7,10 +7,7 @@
 
     <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
-    
-    <widget id="io.cordova.hellocordova"
-      version="0.0.1"
-      android-versionCode="7">
+    <preference name="android-targetSdkVersion" value="10" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
