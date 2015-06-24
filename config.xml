@@ -6,7 +6,7 @@
     <author email="tendai@" href="http://www.royaltywebhosting.co.zw">Royalty Webmaster</author>
     
     <manifest ... >
-    <uses-sdk android:minSdkVersion="1" android:targetSdkVersion="19" />
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="19" />
     ...
 </manifest>
 
